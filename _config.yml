@@ -30,18 +30,3 @@ baseurl: ''
 plugins:
   - jekyll-seo-tag
 
-
-markdown: kramdown
-
-
-sass:
-  sass_dir: css
-  style:    expanded
-
-exclude:
-- README.md
-
-
-safe: true
-lsi: false
-
