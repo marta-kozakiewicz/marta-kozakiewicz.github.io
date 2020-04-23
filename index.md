@@ -6,7 +6,7 @@ layout: home
 
 I am a Ph.D. candidate in Economics at the University of Bonn.
 
-**email**: mkozkiewicz [at] uni-bonn [dot] de
+**email**: mkozakiewicz [at] uni-bonn [dot] de
 <!-- You can learn more about my research [here]({{site.path}}/#research). -->
 
 
