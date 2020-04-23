@@ -23,15 +23,25 @@ path: ""
 url:  'http://marta-kozakiewicz.github.io/'
 baseurl: ''
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
-  - index.md
-  - research.md
 
 # Build settings
 # theme: texture
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+
+
+markdown: kramdown
+
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
+
