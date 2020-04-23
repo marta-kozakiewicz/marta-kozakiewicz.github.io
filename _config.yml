@@ -1,0 +1,33 @@
+title: Marta Kozakiewicz Home
+author: Marta Kozakiewicz
+description: > # this means to ignore newlines until "show_exerpts:"
+  Marta Kozakiewicz home
+show_excerpts: false # set to true to show excerpts on the homepage
+baseurl: /
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+texture:
+  title: Marta Kozakiewicz
+  tagline: Behavioral economist at the University of Bonn
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: true
+  showPicker: false
+
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - index.md
+  - research.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
