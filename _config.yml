@@ -24,6 +24,14 @@ url:  'http://marta-kozakiewicz.github.io/'
 baseurl: ''
 
 
+markdown: kramdown
+
+
+exclude:
+- README.md
+
+
+
 # Build settings
 # theme: texture
 
