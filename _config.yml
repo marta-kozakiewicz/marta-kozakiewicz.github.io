@@ -3,7 +3,7 @@ author: Marta Kozakiewicz
 description: > # this means to ignore newlines until "show_exerpts:"
   Marta Kozakiewicz home
 show_excerpts: false # set to true to show excerpts on the homepage
-baseurl: /
+
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -20,7 +20,7 @@ texture:
 
 path: ""
 # path: ""
-url:  'http://marta-kozakiewicz.github.io/'
+url:  'https://marta-kozakiewicz.github.io/'
 baseurl: ''
 
 
