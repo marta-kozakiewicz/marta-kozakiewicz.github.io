@@ -141,7 +141,9 @@ header {
 		}
 		div.highlight {
 			padding: 30px 15px;
-		}
+        }
+		@include fluidType(10px, 12px);
+        
 	}
 
 	@media screen and (max-width: $tabWidth) and (min-width: $mobileWidth){
@@ -245,6 +247,9 @@ header {
 	right: 5vw;
 	a {
 		color: inherit;
+    }
+    @media screen and  (max-width: $mobileWidth) {
+		@include fluidType(10px, 12px);
 	}
 	ul {
 		list-style-type: none;
