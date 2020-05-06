@@ -326,11 +326,11 @@ img {
     border-radius: 0px;
 }
     
-@media (max-width:800px) {
-    img#side-picture {
+@media (max-width:700px) {
+    .side-picture {
         display: none;
     }
-    body#container{
+    .container{
         @include fluidType(10px, 12px);
     }
 } 
