@@ -753,13 +753,17 @@ img {
     img .side-picture {
       width: 100px; } }
 .side-picture {
+  max-width: 35%;
   width: 35%;
   position: absolute;
   right: 0;
-  top: 185px;
+  top: 211px;
   padding: -50px 0 0;
   float: right;
   border-radius: 0px; }
+  @media screen and (max-width: 540px) {
+    .side-picture {
+      visible: false; } }
 
 .texture-black {
   background-color: #282828; }
