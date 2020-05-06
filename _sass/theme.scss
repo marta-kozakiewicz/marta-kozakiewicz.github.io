@@ -333,6 +333,12 @@ img {
     .container{
         @include fluidType(10px, 12px);
     }
+    h1 {
+        @include fluidType(12px, 14px);
+    }
+    h2 {
+        @include fluidType(10px, 12px);
+    }
 } 
 
 
