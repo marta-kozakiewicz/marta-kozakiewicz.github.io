@@ -3,8 +3,6 @@ layout: home
 title: Marta Kozakiewicz
 ---
 
-<img class="side-picture" align="right" src="{{site.path}}/assets/photo0.jpg">
-
 Research interests: behavioral economics and experimental economics. In my current research I focus on beliefs formation and learning.
 
 **Email**: martkozakiewicz [at] gmail [dot] com

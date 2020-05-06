@@ -237,7 +237,7 @@ header {
 
 .post-container {
 	img {
-		margin: 20px 0;
+		margin: 0 0;
 	}
 }
 
@@ -320,17 +320,19 @@ img {
     width: 35%;
     position:absolute; 
     right:0;
-    top: 211px;
-    padding: -50px 0 0;
+    padding: 0; 
+    // top: 211px;
     float: right;
     border-radius: 0px;
-    @media screen and  (max-width: $mobileWidth) {
-		visible: false;
-	}
-//     -webkit-transform:rotate(270deg);
-//   -moz-transform: rotate(270deg);
-//   -ms-transform: rotate(270deg);
-//   -o-transform: rotate(270deg);
-//   transform: rotate(270deg);
 }
+    
+@media (max-width:800px) {
+    img#side-picture {
+        display: none;
+    }
+    body#container{
+        @include fluidType(10px, 12px);
+    }
+} 
+
 

@@ -703,7 +703,7 @@ header {
     border-bottom: none; }
 
 .post-container img {
-  margin: 20px 0; }
+  margin: 0 0; }
 
 .navbar {
   position: absolute;
@@ -775,13 +775,22 @@ img {
   width: 35%;
   position: absolute;
   right: 0;
-  top: 211px;
-  padding: -50px 0 0;
+  padding: 0;
   float: right;
   border-radius: 0px; }
-  @media screen and (max-width: 540px) {
-    .side-picture {
-      visible: false; } }
+
+@media (max-width: 800px) {
+  img#side-picture {
+    display: none; }
+
+  body#container {
+    font-size: 10px; } }
+  @media screen and (max-width: 800px) and (min-width: 320px) {
+    body#container {
+      font-size: calc(10px + 2 * ((100vw - 320px) / 960)); } }
+  @media screen and (max-width: 800px) and (min-width: 1280px) {
+    body#container {
+      font-size: 12px; } }
 
 .texture-black {
   background-color: #282828; }
