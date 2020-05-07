@@ -53,3 +53,4 @@ In my current research I investigate the role of belief-based utility in belief 
 <p class="abstract">
 </p>
 
+<img class="side-picture" align="center" src="{{site.path}}/assets/photo2.jpg">

@@ -742,6 +742,7 @@ header {
     .navbar ul li {
       border-bottom: 1px solid #fff;
       float: left;
+      display: block;
       padding: 10px 25px;
       font-size: 16px;
       transition: background-color .3s ease-in; }
@@ -799,21 +800,16 @@ img {
     img .side-picture {
       width: 100px; } }
 .side-picture {
-  max-width: 35%;
-  width: 35%;
+  margin-top: 80px;
+  max-width: 100%;
+  width: 100%;
   position: absolute;
+  left: 0;
   right: 0;
-  padding: 0;
-  float: right;
+  float: center;
   border-radius: 0px;
   z-index: -1; }
 
-@media screen and (max-width: 800px) {
-  .side-picture {
-    display: none; }
-
-  img {
-    display: none; } }
 .texture-black {
   background-color: #282828; }
 

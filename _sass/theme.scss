@@ -285,7 +285,8 @@ header {
 		li {
 			// background-color: #ff9f1c;
 			border-bottom: 1px solid #fff;
-			float: left;
+            float: left;
+            display: block;
 			// margin: 5px;
 			&:not(:first-child){
 				border-left: 0;
@@ -358,24 +359,25 @@ img {
     //   width: 225px;
     // height: 1250px;
     // max-height: 100%;
-    max-width: 35%;
-    width: 35%;
+    margin-top: 80px;
+    max-width: 100%;
+    width: 100%;
     position:absolute; 
-    right:0;
-    padding: 0; 
     // top: 211px;
-    float: right;
+    left: 0;
+    right: 0;
+    float: center;
     border-radius: 0px;
     z-index: -1;
 }
     
-@media screen and (max-width:800px) {
-    .side-picture {
-        display: none;
-    }
-    img {
-        display: none;
-    }
-} 
+// @media screen and (max-width:800px) {
+//     .side-picture {
+//         display: none;
+//     }
+//     img {
+//         display: none;
+//     }
+// } 
 
 
