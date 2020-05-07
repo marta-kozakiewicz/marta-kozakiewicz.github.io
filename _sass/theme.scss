@@ -50,12 +50,12 @@ h1, h2, h3 {
 
 h1 {
     // @include fluidType(36px, 48px);
-    @include fluidType(32px, 44px);
+    @include fluidType(28px, 40px);
 }
 
 h2 {
 	font-weight: bold;
-	@include fluidType(24px, 28px);
+	@include fluidType(20px, 24px);
 }
 
 // &:hover {
@@ -96,10 +96,22 @@ header {
 	overflow: hidden;
 	h2 {
 		font-weight: normal;
-		margin-top: 5px;
+        margin-top: 5px;
+        @media screen and  (max-width: $mobileWidth) {
+            @include fluidType(14px, 18px);
+        }
+        @media screen and  (max-width: $largeMobileWidth) {
+            @include fluidType(16px, 20px);
+        }
 	}
 	h1 {
-		margin: 0;
+        margin: 0;
+        @media screen and  (max-width: $mobileWidth) {
+            @include fluidType(16px, 20px);
+        }
+        @media screen and  (max-width: $largeMobileWidth) {
+            @include fluidType(18px, 22px);
+        }
 	}
     
   
@@ -267,9 +279,12 @@ header {
 			}
 			padding: 10px 25px;
 			// border-radius: 4px;
-            @include fluidType(14px, 16px);
-            @media screen and (max-width: 629px) {
+            @include fluidType(16px, 18px);
+            @media screen and  (max-width: $mobileWidth) {
                 @include fluidType(10px, 12px);
+            }
+            @media screen and  (max-width: $largeMobileWidth) {
+                @include fluidType(12px, 14px);
             }
 			transition: background-color .3s ease-in;
 			&:hover {
