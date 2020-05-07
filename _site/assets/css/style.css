@@ -505,6 +505,9 @@ pre.highlight, code {
   tab-size: 4;
   background-color: #f4f4f4; }
 
+@viewport {
+  width: device-width;
+  zoom: 1.0; }
 *, *:before, *:after {
   box-sizing: border-box; }
 
@@ -711,16 +714,6 @@ header {
   right: 5vw; }
   .navbar a {
     color: inherit; }
-  @media screen and (max-width: 540px) {
-    .navbar {
-      font-size: 10px; } }
-  @media screen and (max-width: 540px) and (min-width: 320px) {
-    .navbar {
-      font-size: calc(10px + 2 * ((100vw - 320px) / 960)); } }
-  @media screen and (max-width: 540px) and (min-width: 1280px) {
-    .navbar {
-      font-size: 12px; } }
-
   .navbar ul {
     list-style-type: none; }
     .navbar ul li {
@@ -737,6 +730,16 @@ header {
       @media screen and (min-width: 1280px) {
         .navbar ul li {
           font-size: 16px; } }
+      @media screen and (max-width: 629px) {
+        .navbar ul li {
+          font-size: 10px; } }
+  @media screen and (max-width: 629px) and (min-width: 320px) {
+    .navbar ul li {
+      font-size: calc(10px + 2 * ((100vw - 320px) / 960)); } }
+  @media screen and (max-width: 629px) and (min-width: 1280px) {
+    .navbar ul li {
+      font-size: 12px; } }
+
       .navbar ul li:hover {
         background-color: rgba(255, 255, 255, 0.15);
         cursor: pointer; }
@@ -762,7 +765,7 @@ header {
   margin: -50px 0 0; }
 
 img {
-  text-align: right;
+  text-align: center;
   width: 100%; }
 
 @media (max-width: 320px) {
@@ -777,41 +780,15 @@ img {
   right: 0;
   padding: 0;
   float: right;
-  border-radius: 0px; }
+  border-radius: 0px;
+  z-index: -1; }
 
-@media (max-width: 700px) {
+@media screen and (max-width: 800px) {
   .side-picture {
     display: none; }
 
-  .container {
-    font-size: 10px; } }
-  @media screen and (max-width: 700px) and (min-width: 320px) {
-    .container {
-      font-size: calc(10px + 2 * ((100vw - 320px) / 960)); } }
-  @media screen and (max-width: 700px) and (min-width: 1280px) {
-    .container {
-      font-size: 12px; } }
-
-@media (max-width: 700px) {
-  h1 {
-    font-size: 12px; } }
-  @media screen and (max-width: 700px) and (min-width: 320px) {
-    h1 {
-      font-size: calc(12px + 2 * ((100vw - 320px) / 960)); } }
-  @media screen and (max-width: 700px) and (min-width: 1280px) {
-    h1 {
-      font-size: 14px; } }
-
-@media (max-width: 700px) {
-  h2 {
-    font-size: 10px; } }
-  @media screen and (max-width: 700px) and (min-width: 320px) {
-    h2 {
-      font-size: calc(10px + 2 * ((100vw - 320px) / 960)); } }
-  @media screen and (max-width: 700px) and (min-width: 1280px) {
-    h2 {
-      font-size: 12px; } }
-
+  img {
+    display: none; } }
 .texture-black {
   background-color: #282828; }
 

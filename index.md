@@ -3,7 +3,8 @@ layout: home
 title: Marta Kozakiewicz
 ---
 
-Research interests: behavioral economics and experimental economics. In my current research I focus on beliefs formation and learning.
+Research interests: behavioral economics and experimental economics.  
+In my current research I investigate the role of belief-based utility in belief formation.
 
 **Email**: martkozakiewicz [at] gmail [dot] com
 <!-- You can learn more about my research [here]({{site.path}}/#research). -->
@@ -35,9 +36,6 @@ Research interests: behavioral economics and experimental economics. In my curre
 #### Does the world get crazier or is it just me? Learning about ability and an external parameter
 <p class="co-author"> 
  joint work with <a  href="https://www.iame.uni-bonn.de/people/lorenz-goette">Lorenz Götte </a> 
-</p>
-<p class="paper-links"> 
-(manuscript coming soon)
 </p>
 <p class="abstract">
 </p>
