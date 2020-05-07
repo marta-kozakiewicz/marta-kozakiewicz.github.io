@@ -755,10 +755,12 @@ header {
           font-size: 16px; } }
       @media screen and (max-width: 540px) {
         .navbar ul li {
-          font-size: 10px; } }
+          font-size: 9px;
+          padding: 2px 5px; } }
       @media screen and (max-width: 629px) {
         .navbar ul li {
-          font-size: 12px; } }
+          font-size: 11px;
+          padding: 5px 12px; } }
       .navbar ul li:hover {
         background-color: rgba(255, 255, 255, 0.15);
         cursor: pointer; }
