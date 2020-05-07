@@ -27,7 +27,11 @@ body {
 	// font-family: 'Nunito Sans', sans-serif;
 	font-family: 'Lato', sans-serif;
 	@include fluidType(16px, 18px);
-	line-height: 1.55em;
+    line-height: 1.55em;
+    @media screen and  (max-width: $largeMobileWidth) {
+        line-height: 1em;
+
+    }
 	margin: 0;
 	-webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -279,12 +283,14 @@ header {
 			}
 			padding: 10px 25px;
 			// border-radius: 4px;
-            @include fluidType(16px, 18px);
+            @media screen and  (max-width: $desktopWidth) {
+                @include fluidType(16px, 18px);
+            }
             @media screen and  (max-width: $mobileWidth) {
-                @include fluidType(10px, 12px);
+                @include fluidType(8px, 10px);
             }
             @media screen and  (max-width: $largeMobileWidth) {
-                @include fluidType(12px, 14px);
+                @include fluidType(10px, 12px);
             }
 			transition: background-color .3s ease-in;
 			&:hover {
