@@ -346,14 +346,7 @@ img {
     text-align: center;
     width: 100%;
 }
-@media (max-width: $minSupportedWidth) {
-    img {
-        margin-top: -5px;
-        .side-picture {
-            width: 100px;
-        }
-    }
-}
+
 .side-picture {
     //   height: 300px;
     //   width: 225px;
