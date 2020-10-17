@@ -568,7 +568,12 @@ h4 {
   font-size: 100%;
   color: #222;
   transition: color .3s ease;
-  margin: .1em 0; }
+  margin: 0 0 0 0;
+  padding: 0; }
+
+dl {
+  margin-top: 5px;
+  margin-bottom: 35px; }
 
 figcaption {
   font-size: 10pt;
@@ -588,7 +593,7 @@ li {
       font-size: 16px; } }
 
 header {
-  padding: 35px 0;
+  padding: 25px 0;
   color: #fff;
   overflow: hidden; }
   @media screen and (max-width: 629px) {
@@ -635,6 +640,10 @@ header {
 
 .clearfix {
   clear: both; }
+
+.pageHeader {
+  margin: .01em 0;
+  padding: 0; }
 
 .container {
   margin: 0 150px;
@@ -781,24 +790,19 @@ header {
   margin-top: 0; }
 
 .abstract {
-  font-size: 80%;
+  font-size: 85%;
   text-align: justify; }
 
 :target:before {
   content: "";
   display: block;
   height: 50px;
-  margin: -50px 0 0; }
+  margin: -40px 0 0; }
 
 img {
   text-align: center;
   width: 100%; }
 
-@media (max-width: 320px) {
-  img {
-    margin-top: -5px; }
-    img .side-picture {
-      width: 100px; } }
 .side-picture {
   margin-top: 80px;
   max-width: 100%;
@@ -809,6 +813,34 @@ img {
   float: center;
   border-radius: 0px;
   z-index: -1; }
+
+.profile-picture {
+  width: 187.5px;
+  max-width: 25%;
+  position: absolute;
+  left: 870px;
+  margin: 0px 0 0 15px;
+  float: right;
+  border-radius: 0px; }
+  @media screen and (max-width: 540px) {
+    .profile-picture {
+      left: 735px; } }
+  @media screen and (max-width: 768px) and (min-width: 540px) {
+    .profile-picture {
+      left: 760px; } }
+  @media screen and (max-width: 1024px) and (min-width: 768px) {
+    .profile-picture {
+      left: 800px; } }
+  @media screen and (min-width: 1024px) and (max-width: 1280px) {
+    .profile-picture {
+      left: 820px; } }
+  @media screen and (max-width: 629px) {
+    .profile-picture {
+      display: none; } }
+
+span {
+  font-size: 90%;
+  font-weight: normal; }
 
 .texture-black {
   background-color: #282828; }

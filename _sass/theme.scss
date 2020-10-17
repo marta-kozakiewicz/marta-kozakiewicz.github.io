@@ -78,10 +78,14 @@ h4 {
     font-size: 100%;
     color: #222;
 	transition: color .3s ease;
-	margin: .1em 0;
-	
+	margin: 0 0 0 0;
+	padding: 0;
 }
 
+dl {
+	margin-top: 5px;
+	margin-bottom: 35px;
+}
 figcaption {
 	font-size: 10pt;
 	line-height: 1.5em;
@@ -101,7 +105,7 @@ li {
 
 header {
 	// background-size: cover;
-	padding: 35px 0;
+	padding: 25px 0;
 	color: #fff;
     overflow: hidden;
     @media screen and  (max-width: $largeMobileWidth) {
@@ -157,6 +161,11 @@ header {
 //
 // Basic Container Class
 //
+.pageHeader{
+    margin: .01em 0;
+    padding: 0;
+}
+
 .container {
 	margin:0 150px;
 	max-width: 720px;
@@ -331,7 +340,7 @@ header {
 
 .abstract {
     // margin-top: -3px;
-    font-size: 80%;
+    font-size: 85%;
     text-align: justify;
 }
 
@@ -339,7 +348,7 @@ header {
     content: "";
     display: block;
     height: 50px;
-    margin: -50px 0 0;
+    margin: -40px 0 0;
 }
 
 img {
@@ -363,7 +372,39 @@ img {
     border-radius: 0px;
     z-index: -1;
 }
-    
+ 
+.profile-picture {
+    //   height: 300px;
+    //   width: 225px;
+    // height: 250px;
+    width: 187.5px;
+    max-width: 25%;
+    position: absolute;
+    // right:  20%;
+    left:  870px;
+    @media screen and  (max-width: $mobileWidth) {
+        left: 735px;        
+	}
+
+	@media screen and (max-width: $tabWidth) and (min-width: $mobileWidth){
+	    left: 760px;
+	}
+
+	@media screen and (max-width: $desktopWidth) and (min-width: $tabWidth){
+		left: 800px;
+	}
+
+	@media screen and (min-width: $desktopWidth) and (max-width: 1280px) {
+		left: 820px;
+	}
+    margin: 0px 0 0 15px;
+    float: right;
+    border-radius: 0px;
+    @media screen and  (max-width: $largeMobileWidth) {
+    display: none;
+    }
+    }
+
 // @media screen and (max-width:800px) {
 //     .side-picture {
 //         display: none;
@@ -373,4 +414,5 @@ img {
 //     }
 // } 
 
+span{ font-size: 90%; font-weight: normal}
 

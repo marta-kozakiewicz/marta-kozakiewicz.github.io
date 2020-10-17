@@ -4,51 +4,49 @@ title: resume
 permalink: /resume
 ---
 
-[Click here for the full CV]({{site.path}}/assets/kozakiewicz-cv.pdf). 
+[Click here for the full CV]({{site.path}}/assets/kozakiewicz_cv.pdf). 
 &nbsp;
-
-<!-- 
-
+Below, you can find a short bio.
 #### Education
-<ul class="small">
-<li>2014-present</li>
-    <ul>
-        <li>  <b>Ph.D. in Economics</b>; University of Bonn  </li>
-    </ul>
-    <li>2008 - 2014</li>
-    <ul>
-    <li> <b>B.S. and M.S. in Quantitative Methods in Economics</b>; Warsaw School of Economics.</li>
-    </ul>
-</ul>
+<small> 2014-present </small>
+:   <small> **Ph.D. in Economics**; University of Bonn </small>
+
+<small> 2008 - 2014</small>
+:  <small> **B.S. and M.S. in Quantitative Methods in Economics**; Warsaw School of Economics. </small>
 
 
-    
+
 #### Teaching Experience
-<ul class="small">
-<li>Summer 2019 and 2020</li>
-    <ul>
-        <li> Lecturer at the University of Bonn for Behavioral Economics (B.Sc.)  </li>
-    </ul>
-<li>Winter 2018/19</li>
-    <ul>
-    <li> TA at the University of Bonn for Research Module in Management and Applied Microeconomics (M.Sc.). </li>
-    </ul>
-</ul>
+<small> 2019 and 2020</small>
+: <small> **Introduction to Behavioral Economics**   (lecturer, undergraduate) </small>
+
+<small> 2018</small>
+: <small> **Research Module in Management and Applied Microeconomics** (TA, graduate) </small>
+
 
 
 #### Honors and Grants
 <ul class="small">
-<li>2018 - present</li>
+<li>2020 - present</li>
+    <ul>
+        <li> Research fellowship, Young ECONtribute Program.  </li>
+    </ul>
+<li>2020</li>
+    <ul>
+        <li> 8568 EUR research funding for the project “Estimating Belief-Based Utility Using Experimental Data”, Collaborative Research Center (CRC) TR 224, </li>
+    </ul>
+
+<li>2018 - 2020</li>
     <ul>
         <li> Research fellowship, Collaborative Research Center (CRC) TR 224  </li>
     </ul>
-<li>Autumn 2018</li>
+<li>2018</li>
     <ul>
-    <li> 6100  EUR  research  funding  for  the  project ``Misguided  Learning:   The  UnderlyingMechanisms'', Collaborative Research Center (CRC) TR 224 through project A1 </li>
+    <li> 6100  EUR  research  funding  for  the  project ``Misguided  Learning:   The  Underlying Mechanisms'', Collaborative Research Center (CRC) TR 224 through project A1 </li>
     </ul>
-<li>Autumn 2017</li>
+<li>2017</li>
         <ul>
-    <li> 6000  EUR  research  funding  for  the  project “Experimental  Evidence  on  MisguidedLearning”, Institute for Applied Microeconomics, University of Bonn </li>
+    <li> 6000  EUR  research  funding  for  the  project “Experimental  Evidence  on  Misguided Learning”, Institute for Applied Microeconomics, University of Bonn </li>
     </ul>
 <li>2015 - 2018</li>
     <ul>
@@ -58,4 +56,7 @@ permalink: /resume
     <ul>
     <li>Doctoral scholarship, German Research Foundation (DFG)</li>
     </ul>
-</ul> -->
+</ul>
+
+<img class="side-picture" align="center" src="{{site.path}}/assets/photo2.jpg">
+
