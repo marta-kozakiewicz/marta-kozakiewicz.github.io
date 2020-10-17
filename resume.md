@@ -5,8 +5,12 @@ permalink: /resume
 ---
 
 [Click here for the full CV]({{site.path}}/assets/kozakiewicz_cv.pdf). 
+
 &nbsp;
+
+
 Below, you can find a short bio.
+
 #### Education
 <small> 2014-present </small>
 :   <small> **Ph.D. in Economics**; University of Bonn </small>
