@@ -12,7 +12,7 @@ permalink: /resume
 Below, you can find a short bio.
 
 #### Education
-<small> 2014-present </small>
+<small> 2014 - present </small>
 :   <small> **Ph.D. in Economics**; University of Bonn </small>
 
 <small> 2008 - 2014</small>
@@ -61,6 +61,9 @@ Below, you can find a short bio.
     <li>Doctoral scholarship, German Research Foundation (DFG)</li>
     </ul>
 </ul>
+
+&nbsp;
+
 
 <img class="side-picture" align="center" src="{{site.path}}/assets/photo2.jpg">
 
