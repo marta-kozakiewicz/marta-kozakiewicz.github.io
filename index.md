@@ -18,8 +18,6 @@ title: Marta Kozakiewicz
 <div  style="margin-bottom:2em;"> </div> 
 **Email**: martkozakiewicz [at] gmail [dot] com
 
-<div  style="margin-bottom:2em;"> </div> 
-
 
 ## Job Market Paper
 
@@ -33,7 +31,7 @@ title: Marta Kozakiewicz
 
 <p class="abstract">
 People tend to overestimate their abilities and chances of success, even though
-inaccurate beliefs lead to costly mistakes. How can these beliefs persist in face of
+inaccurate beliefs lead to costly mistakes. How can these beliefs persist in the face of
 feedback? I propose a novel experiment to test whether people perceive favorable
 feedback as more informative. Using experimental data, I provide the first causal
 evidence that utility from beliefs affects perception of signal informativeness. To
@@ -60,7 +58,7 @@ that perpetuate it regardless of received feedback.
  We  test  experimentally  the  theory  of  misguided  learning  formulated  by  Heidhues et al. (2018).  The model predicts the behavior of an agent who has a biased perception of his ability and is learning about an unknown, decision-relevant parameter.  We use a novel experimental design to demonstrate that the learning process of an overconfident agent differs significantly from that of an unbiased agent.  In a dynamic setting, the overconfident agent repeatedly takes suboptimal actions, misinterprets  the  output  and  forms  erroneous  beliefs  about  the  unknown  parameter. We provide the first empirical evidence that giving a biased agent the opportunity to experiment and acquire new information is not only ineffective, but in some cases counterproductive.
 </p>
 
-### Work in Progress
+## Work in Progress
 
 #### Does the world get crazier or is it just me? Learning about ability and an external parameter
 <p class="co-author"> 

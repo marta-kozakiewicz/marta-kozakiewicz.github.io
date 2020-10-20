@@ -29,7 +29,7 @@ Below, you can find a short bio.
 
 
 
-#### Honors and Grants
+<!-- #### Honors and Grants
 <ul class="small">
 <li>2020 - present</li>
     <ul>
@@ -60,7 +60,32 @@ Below, you can find a short bio.
     <ul>
     <li>Doctoral scholarship, German Research Foundation (DFG)</li>
     </ul>
-</ul>
+</ul> -->
+
+#### Honors and Grants
+
+<small>2020 - present</small>
+: <small> Research fellowship, Young ECONtribute Program.  </small>
+
+<small>2020</small>
+: <small> 8568 EUR research funding for the project “Estimating Belief-Based Utility Using Experimental Data”, Collaborative Research Center (CRC) TR 224, </small>
+
+<small>2018 - 2020</small>
+: <small> Research fellowship, Collaborative Research Center (CRC) TR 224  </small>
+
+<small>2018</small>
+: <small> 6100  EUR  research  funding  for  the  project "Misguided  Learning:   The  Underlying Mechanisms", Collaborative Research Center (CRC) TR 224 through project A1 </small>
+
+<small>2017</small>
+: <small> 6000  EUR  research  funding  for  the  project “Experimental  Evidence  on  Misguided Learning”, Institute for Applied Microeconomics, University of Bonn </small>
+
+<small>2015 - 2018</small>
+: <small>Doctoral scholarship, German Academic Research Service (DAAD)</small>
+
+<small>2014 - 2015</small>
+: <small>Doctoral scholarship, German Research Foundation (DFG)</small>
+
+
 
 &nbsp;
 
