@@ -817,31 +817,20 @@ img {
 
 .profile-picture {
   width: 300px;
-  max-width: 33%;
+  max-width: 22%;
+  min-width: 100px;
   position: absolute;
-  left: 950px;
+  left: 70%;
   margin: 0px 0 0 15px;
-  float: right;
   border-radius: 0px; }
-  @media screen and (max-width: 540px) {
-    .profile-picture {
-      left: 755px; } }
-  @media screen and (max-width: 768px) and (min-width: 540px) {
-    .profile-picture {
-      left: 780px; } }
-  @media screen and (max-width: 1024px) and (min-width: 768px) {
-    .profile-picture {
-      left: 820px; } }
-  @media screen and (min-width: 1024px) and (max-width: 1280px) {
-    .profile-picture {
-      left: 840px; } }
   @media screen and (max-width: 629px) {
     .profile-picture {
-      display: none; } }
+      display: inline-block; } }
 
 span {
   font-size: 90%;
-  font-weight: normal; }
+  font-weight: normal;
+  float: left; }
 
 .texture-black {
   background-color: #282828; }
