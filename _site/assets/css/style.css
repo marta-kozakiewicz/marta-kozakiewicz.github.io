@@ -824,7 +824,7 @@ img {
   float: right;
   margin: 0px 0 0 15px;
   border-radius: 0px; }
-  @media screen and (max-width: 629px) {
+  @media screen and (max-width: 768px) {
     .profile-picture {
       display: inline-block;
       float: right;
@@ -833,13 +833,14 @@ img {
       width: 40%;
       max-width: 100%;
       left: 0;
-      right: 0;
-      margin: 0 0 0 0; } }
-  p .profile-picture {
-    padding: 0;
-    margin: 0;
-    margin-left: 20px;
-    float: right; }
+      padding-bottom: 40px; }
+      p .profile-picture {
+        padding-top: -10px;
+        padding-bottom: 10px;
+        margin-left: 20px;
+        margin-right: 50%;
+        margin-top: -15px;
+        float: right; } }
 
 span {
   font-size: 90%;
