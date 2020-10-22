@@ -12,10 +12,11 @@ title: Marta Kozakiewicz
 
 <!-- <p style="font-size:18px;font-weight=bold;">Research and Teaching Fields </p> -->
 <p style="font-size:100%;font-weight:bold;padding-bottom:0;margin-bottom:1em;margin-top:3em;line-height: 0em;">Research and Teaching Fields</p>
-<span style="font-size:100%;font-style:italic"> Primary:</span>  <span style="font-size:100%;"> Behavioral Economics, Experimental Economics</span> \\
-<span style="font-size:100%;;font-style:italic"> Secondary:</span> <span style="font-size:100%"> Microeconomic Theory</span> 
+<span style="font-size:100%;font-style:italic"> Primary: </span>  <span style="font-size:100%;"> Behavioral Economics, Experimental Economics</span> \\
+<span style="font-size:100%;font-style:italic"> Secondary: </span> <span style="font-size:100%"> Microeconomic Theory</span> 
 
-<div  style="margin-bottom:2em;"> </div> 
+&nbsp;
+
 **Email**: martkozakiewicz [at] gmail [dot] com
 
 

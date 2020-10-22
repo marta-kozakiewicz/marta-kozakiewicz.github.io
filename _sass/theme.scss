@@ -179,6 +179,7 @@ header {
 
 	@media screen and  (max-width: $mobileWidth) {
         margin:0 15px; 
+        
 		div.highlighter-rouge {
 			right: 15px;
 		}
@@ -382,10 +383,11 @@ img {
     // height: 250px;
     width: 300px;
     max-width: 22%;
-    min-width: 100px;
+    min-width: 50px;
     position: absolute;
     // right:  20%;
     left:  70%;
+    float: right;
     // @media screen and  (max-width: $mobileWidth) {
     //     left: 735px+20px;        
 	// }
@@ -405,17 +407,30 @@ img {
     border-radius: 0px;
     @media screen and  (max-width: $largeMobileWidth) {
         display: inline-block;
+        float: right;
+        position: relative;
+        z-index: -1;
+        width: 40%;
+        max-width: 100%;
+        left:  0;
+        right:  0;
+        margin: 0 0 0 0;
+        
     }
+    p & {
+        padding: 0;
+        margin: 0;
+        margin-left: 20px;
+        float: right;
     }
+}
 
-// @media screen and (max-width:800px) {
-//     .side-picture {
-//         display: none;
-//     }
-//     img {
-//         display: none;
-//     }
-// } 
-
-span{ font-size: 90%; font-weight: normal;float: left;}
+span{
+    font-size: 90%;
+    font-weight: normal;
+    @media screen and  (max-width: $largeMobileWidth) {
+        overflow-wrap: break-word;
+        margin: 1px 1px;
+    }
+}
 
