@@ -3,7 +3,7 @@ layout: home
 title: Marta Kozakiewicz
 ---
 
-<!-- <img class="profile-picture" align="right" src="{{site.path}}/assets/photo1.jpg"> -->
+<img class="profile-picture" align="right" src="{{site.path}}/assets/photo.jpg">
 
 
 <!-- <p style="font-size:100%;padding-bottom:0;margin-bottom:1.4em;margin-top:2.5em;line-height: 0em;"> I am currently on the job market. &nbsp;

@@ -816,25 +816,25 @@ img {
   z-index: -1; }
 
 .profile-picture {
-  width: 187.5px;
-  max-width: 25%;
+  width: 300px;
+  max-width: 33%;
   position: absolute;
-  left: 870px;
+  left: 950px;
   margin: 0px 0 0 15px;
   float: right;
   border-radius: 0px; }
   @media screen and (max-width: 540px) {
     .profile-picture {
-      left: 735px; } }
+      left: 755px; } }
   @media screen and (max-width: 768px) and (min-width: 540px) {
     .profile-picture {
-      left: 760px; } }
+      left: 780px; } }
   @media screen and (max-width: 1024px) and (min-width: 768px) {
     .profile-picture {
-      left: 800px; } }
+      left: 820px; } }
   @media screen and (min-width: 1024px) and (max-width: 1280px) {
     .profile-picture {
-      left: 820px; } }
+      left: 840px; } }
   @media screen and (max-width: 629px) {
     .profile-picture {
       display: none; } }
