@@ -10,15 +10,7 @@
 </p>
 
 <p class="abstract">
-People tend to overestimate their abilities and chances of success, even though
-inaccurate beliefs lead to costly mistakes. How can these beliefs persist in the face of
-feedback? I propose a novel experiment to test whether people perceive favorable
-feedback as more informative. Using experimental data, I provide the first causal
-evidence that utility from beliefs affects perception of signal informativeness. To
-establish causality, I adopt a matching estimator approach and construct a counterfactual outcome of an agent who observed the same signal, but the signal didn't affect his belief-based utility. I find a strong and significant effect, with a positive
-asymmetry: subjects tend to interpret favorable signals as more informative. The
-results cast a new light on the origins of overconfidence and illuminate mechanisms
-that perpetuate it regardless of received feedback.
+People tend to overestimate their abilities and chances of success, even though inaccurate beliefs lead to costly mistakes. How can these beliefs persist in an environment with frequent feedback? I propose a new test of the hypothesis that people interpret favorable feedback to be more informative. Using experimental data, I provide the first causal evidence that the utility from beliefs affects one's perception of signal informativeness. To establish causality, I adopt a matching estimator approach and construct a counterfactual outcome of a subject who observes the same signal, but the signal is not affecting his belief-based utility. I find a strong and significant effect: subjects interpret favorable signals to be more informative due to changes in belief-based utility.  The results cast a new light on the origins of overconfidence and illuminate mechanisms that perpetuate it in the face of feedback.
 </p>
 
 
