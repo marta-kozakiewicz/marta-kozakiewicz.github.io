@@ -3,7 +3,7 @@
 
 #### [Belief-Based Utility and Signal Interpretation]({{site.path}}/assets/kozakiewicz_jmp.pdf)
 <p class="paper-links"> 
- <a  href="{{site.path}}/assets/kozakiewicz_jmp.pdf">[pdf] </a>
+ <a  href="{{site.path}}/assets/kozakiewicz_JMP.pdf">[pdf] </a>
  [appendix]
  [instructions (English)]
  [instructions (German)]
