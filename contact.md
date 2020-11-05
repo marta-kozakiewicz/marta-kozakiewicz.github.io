@@ -17,4 +17,4 @@ permalink: /contact
 **Office phone number**: +49 (0)228-73 4082
   	
 
-**Office location**: Lennéstr. 35, second floor, room 2.002
+<!-- **Office location**: Lennéstr. 35, second floor, room 2.002 -->
