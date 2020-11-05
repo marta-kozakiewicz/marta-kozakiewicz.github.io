@@ -14,7 +14,7 @@ permalink: /contact
 : 53113 Bonn, Germany 
   	
 
-**Office phone number**: +49 (0)228-73 4082
+<!-- **Office phone number**: +49 (0)228-73 4082 -->
   	
 
 <!-- **Office location**: Lennéstr. 35, second floor, room 2.002 -->
