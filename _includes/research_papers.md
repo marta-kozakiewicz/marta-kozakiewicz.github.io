@@ -23,7 +23,6 @@ People tend to overestimate their abilities and chances of success, even though 
 <p class="paper-links"> 
  <a  href="{{site.path}}/assets/ML_paper.pdf">[pdf] </a> 
  <a  href="{{site.path}}/assets/ML_paper_online_appendix.pdf">[appendix] </a> 
- <a  href="{{site.path}}/assets/ML_instructions_EN.zip">[instructions (English)] </a> 
  <a  href="{{site.path}}/assets/ML_instructions_DE.zip">[instructions (German)] </a> 
 </p>
 <p class="abstract">
