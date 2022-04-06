@@ -3,7 +3,7 @@
 
 #### [Experimental Evidence on Misguided Learning]({{site.path}}/assets/ML_paper_no_appendices.pdf)
 <p class="co-author"> 
- joint work  with <a  href="https://www.iame.uni-bonn.de/people/lorenz-goette">Lorenz Götte </a> 
+ joint work  with <a  href="https://www.iame.uni-bonn.de/people/lorenz-goette">Lorenz Götte </a>; <em> submitted </em> 
 </p>
 <p class="paper-links"> 
  <a  href="{{site.path}}/assets/ML_paper_no_appendices.pdf">[pdf] </a> 
