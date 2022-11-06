@@ -83,6 +83,18 @@ h4 {
 	padding: 0;
 }
 
+.paper-title {
+	font-weight: bold;
+    font-size: 100%;
+    color: #222;
+	transition: color .3s ease;
+	margin: 0 0 0 0;
+  padding: 0;
+  margin-bottom: 10px;
+  margin-top: 40px;
+	line-height: 1;
+}
+
 dl {
 	margin-top: 5px;
 	margin-bottom: 35px;
@@ -169,7 +181,7 @@ header {
 
 .container {
 	margin:0 150px;
-	max-width: 720px;
+	max-width: 740px;
 
 
 
@@ -343,7 +355,7 @@ header {
 
 
 .abstract {
-    // margin-top: -3px;
+    margin-bottom: 30px;
     font-size: 85%;
     text-align: justify;
 }
@@ -381,7 +393,7 @@ img {
     //   height: 300px;
     //   width: 225px;
     // height: 250px;
-    width: 300px;
+    width: 350px;
     max-width: 22%;
     min-width: 50px;
     position: absolute;
@@ -420,7 +432,7 @@ img {
     p & {
         padding: 0;
         margin: 0;
-        margin-left: 20px;
+        margin-left: 15px;
         float: right;
     }
 }

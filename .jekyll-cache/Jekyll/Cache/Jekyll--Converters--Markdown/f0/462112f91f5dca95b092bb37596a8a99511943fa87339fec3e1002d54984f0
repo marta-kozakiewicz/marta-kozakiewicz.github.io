@@ -1,0 +1,75 @@
+I"h
+<h2 id="job-market-paper-i">Job Market Paper I</h2>
+
+<p class="paper-title">  <a href="/assets/ML_paper_no_appendices.pdf">Experimental Evidence on Misguided Learning </a> </p>
+<p class="co-author"> 
+ joint work  with <a href="https://www.iame.uni-bonn.de/people/lorenz-goette">Lorenz Götte</a>
+</p>
+<p class="paper-links"> 
+ <a href="/assets/ML_paper_no_appendices.pdf">[pdf] </a> 
+ <a href="/assets/ML_paper_online_appendix.pdf">[appendix] </a> 
+ <a href="/assets/ML_instructions_DE.zip">[instructions (German)] </a> 
+</p>
+<p class="abstract">
+This paper studies how people form beliefs in environments with multiple
+unknown parameters, some of which are relevant to agents'
+self-esteem. In particular, we examine how initial bias in beliefs about an
+ego-relevant characteristic affects
+learning about the state of the world. Using data from a laboratory experiment,
+we demonstrate that the learning process of an overconfident agent is self-defeating:
+the agent repeatedly takes suboptimal actions, misinterprets the output, and forms
+increasingly mistaken beliefs about the state. Therefore, we corroborate the theory
+of misguided learning formulated by Heidhues et al. (2018). We provide the first
+empirical evidence that allowing a biased agent to experiment and acquire new
+information is not only ineffective but in some cases counterproductive. Furthermore,
+we move beyond the theory as we examine how learning about multiple parameters
+evolves in ego-relevant and ego-neutral environments.
+</p>
+
+<h2 id="job-market-paper-ii">Job Market Paper II</h2>
+
+<p class="paper-title">  <a href="/assets/kozakiewicz_jmp2_belief_based_utility.pdf">Belief-Based Utility and Signal Interpretation</a> </p>
+<p class="paper-links"> 
+ <a href="/assets/kozakiewicz_jmp2_belief_based_utility.pdf">[pdf] </a>
+ [appendix]
+ [instructions (English)]
+ [instructions (German)]
+</p>
+
+<p class="abstract">
+People tend to overestimate their abilities and chances of success, even though inaccurate beliefs lead to costly mistakes. How can these beliefs persist in an environment with frequent feedback? I propose a new test of the hypothesis that people interpret favorable feedback to be more informative. Using experimental data, I provide the first causal evidence that the utility from beliefs affects one's perception of signal informativeness. To establish causality, I adopt a matching estimator approach and construct a counterfactual outcome of a subject who observes the same signal, but the signal is not affecting his belief-based utility. I find a strong and significant effect: subjects interpret favorable signals to be more informative due to changes in belief-based utility.  The results cast a new light on the origins of overconfidence and illuminate mechanisms that perpetuate it in the face of feedback.
+</p>
+
+<h2 id="work-in-progress">Work in Progress</h2>
+
+<p class="paper-title"> Hope for the best, prepare for the worst: signal anticipation and ex-ante belief manipulation</p>
+<p class="co-author"> 
+Draft available upon request
+</p>
+
+<p class="abstract">
+In this paper, I propose and test a theory of forward-looking belief manipulation.  It is based on the idea that people can "prepare themselves" for the arrival of bad news by adopting overly pessimistic beliefs. The prior is not fixed like in the classical approach but can be manipulated depending on the agent's expectations over the upcoming signal. Using a simple model, I show that if utility from beliefs is reference-dependent and the agent is loss averse, he will lower his beliefs when expecting a noisy signal. I test the model in a laboratory experiment, in which I exogenously vary subjects' expectations about the upcoming signal. While there is a lot of heterogeneity at the individual level, the preliminary data is in line with the model predictions. These preliminary results provide the first empirical evidence that the utility from beliefs is reference-dependent.
+</p>
+
+<p class="paper-title">  Estimating Belief-Based Utility Using Experimental Data
+</p>
+<p class="paper-links"> 
+ [pdf]
+ [appendix]
+ [instructions (English)]
+ [instructions (German)]
+</p>
+
+<p class="abstract">
+</p>
+
+<p class="paper-title"> Does the world get crazier or is it just me? Learning about ability and an external parameter </p>
+<p class="co-author"> 
+ joint work with <a href="https://www.iame.uni-bonn.de/people/lorenz-goette">Lorenz Götte </a> 
+</p>
+<p class="abstract">
+</p>
+
+<p> </p>
+
+:ET

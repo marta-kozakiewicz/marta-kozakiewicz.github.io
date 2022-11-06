@@ -1,13 +1,13 @@
 
-## Working Papers
+## Job Market Paper I
 
-#### [Experimental Evidence on Misguided Learning]({{site.path}}/assets/ML_paper_no_appendices.pdf)
+<p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_jmp1_no_appendix.pdf">Experimental Evidence on Misguided Learning </a> </p>
 <p class="co-author"> 
- joint work  with <a  href="https://www.iame.uni-bonn.de/people/lorenz-goette">Lorenz Götte</a>; <em> submitted </em> 
+ joint work  with <a  href="https://fass.nus.edu.sg/ecs/people/lorenz-goette/">Lorenz Götte</a>
 </p>
 <p class="paper-links"> 
- <a  href="{{site.path}}/assets/ML_paper_no_appendices.pdf">[pdf] </a> 
- <a  href="{{site.path}}/assets/ML_paper_online_appendix.pdf">[appendix] </a> 
+ <a  href="{{site.path}}/assets/kozakiewicz_jmp1_no_appendix.pdf">[pdf] </a> 
+ <a  href="{{site.path}}/assets/kozakiewicz_jmp1_online_appendix.pdf">[appendix] </a> 
  <a  href="{{site.path}}/assets/ML_instructions_DE.zip">[instructions (German)] </a> 
 </p>
 <p class="abstract">
@@ -26,31 +26,43 @@ we move beyond the theory as we examine how learning about multiple parameters
 evolves in ego-relevant and ego-neutral environments.
 </p>
 
+## Job Market Paper II
 
-#### [Belief-Based Utility and Signal Interpretation]({{site.path}}/assets/kozakiewicz_jmp.pdf)
+<p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_jmp2_belief_based_utility.pdf">Belief-Based Utility and Signal Interpretation</a> </p>
 <p class="paper-links"> 
- <a  href="{{site.path}}/assets/kozakiewicz_jmp.pdf">[pdf] </a>
+ <a  href="{{site.path}}/assets/kozakiewicz_jmp2_belief_based_utility.pdf">[pdf] </a>
  [appendix]
  [instructions (English)]
  [instructions (German)]
 </p>
 
 <p class="abstract">
-People tend to overestimate their abilities and chances of success, even though inaccurate beliefs lead to costly mistakes. How can these beliefs persist in an environment with frequent feedback? I propose a new test of the hypothesis that people interpret favorable feedback to be more informative. Using experimental data, I provide the first causal evidence that the utility from beliefs affects one's perception of signal informativeness. To establish causality, I adopt a matching estimator approach and construct a counterfactual outcome of a subject who observes the same signal, but the signal is not affecting his belief-based utility. I find a strong and significant effect: subjects interpret favorable signals to be more informative due to changes in belief-based utility.  The results cast a new light on the origins of overconfidence and illuminate mechanisms that perpetuate it in the face of feedback.
+Do people perceive favorable feedback in a different way than unfavorable one?
+After a decade of research, there is no definite answer. The existing literature disagrees not only on the magnitude but also the direction of the bias (Benjamin, 2019).
+In this paper, I propose a new experimental paradigm to identify motivated distortion of beliefs about signal informativeness. The new design allows me to better
+capture the asymmetry in response to "good" and "bad" news. The data reveals
+that participants perceive favorable signals as much more likely to be informative.
+Furthermore, I introduce a new control condition to uncover the underlying mechanism. Participants in the control group evaluated informativeness of a signal ex-ante,
+conditioned on possible signal realizations. By comparing beliefs reported after a
+signal to the reports stated ex-ante, I show that participants distort their perception in a motivated way after receiving a signal. The results cast a new light on the
+origins of overconfidence, pointing towards the role of affect (or utility from beliefs
+shifted by the signal) in asymmetric updating.
 </p>
 
 ## Work in Progress
 
-#### Does the world get crazier or is it just me? Learning about ability and an external parameter
-<p class="co-author"> 
- joint work with <a  href="https://www.iame.uni-bonn.de/people/lorenz-goette">Lorenz Götte </a> 
+<p class="paper-title"> Hope for the best, prepare for the worst: signal anticipation and ex-ante belief manipulation</p>
+<p class="paper-links"> 
+[Draft available upon request]
 </p>
+
 <p class="abstract">
+In this paper, I propose and test a theory of forward-looking belief manipulation.  It is based on the idea that people can "prepare themselves" for the arrival of bad news by adopting overly pessimistic beliefs. The prior is not fixed like in the classical approach but can be manipulated depending on the agent's expectations over the upcoming signal. Using a simple model, I show that if utility from beliefs is reference-dependent and the agent is loss averse, he will lower his beliefs when expecting a noisy signal. I test the model in a laboratory experiment, in which I exogenously vary subjects' expectations about the upcoming signal. While there is a lot of heterogeneity at the individual level, the preliminary data is in line with the model predictions. If confirmed in a larger sample, the results will provide the first empirical evidence that the utility from beliefs is reference-dependent.
 </p>
 
 
-#### Estimating Belief-Based Utility Using Experimental Data
-
+<p class="paper-title">  Estimating Belief-Based Utility Using Experimental Data
+</p>
 <p class="paper-links"> 
  [pdf]
  [appendix]
@@ -60,5 +72,13 @@ People tend to overestimate their abilities and chances of success, even though 
 
 <p class="abstract">
 </p>
+
+<p class="paper-title"> Does the world get crazier or is it just me? Learning about ability and an external parameter </p>
+<p class="co-author"> 
+ joint work with <a  href="https://fass.nus.edu.sg/ecs/people/lorenz-goette/">Lorenz Götte </a> 
+</p>
+<p class="abstract">
+</p>
+
 
 &nbsp;
