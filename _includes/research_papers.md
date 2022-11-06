@@ -1,12 +1,12 @@
 
 ## Job Market Paper I
 
-<p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_jmp1_no_appendix.pdf">Experimental Evidence on Misguided Learning </a> </p>
+<p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_jmp1_no_appendices.pdf">Experimental Evidence on Misguided Learning </a> </p>
 <p class="co-author"> 
  joint work  with <a  href="https://fass.nus.edu.sg/ecs/people/lorenz-goette/">Lorenz Götte</a>
 </p>
 <p class="paper-links"> 
- <a  href="{{site.path}}/assets/kozakiewicz_jmp1_no_appendix.pdf">[pdf] </a> 
+ <a  href="{{site.path}}/assets/kozakiewicz_jmp1_no_appendices.pdf">[pdf] </a> 
  <a  href="{{site.path}}/assets/kozakiewicz_jmp1_online_appendix.pdf">[appendix] </a> 
  <a  href="{{site.path}}/assets/ML_instructions_DE.zip">[instructions (German)] </a> 
 </p>
