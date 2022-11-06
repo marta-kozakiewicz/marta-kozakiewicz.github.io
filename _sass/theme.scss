@@ -69,11 +69,11 @@ h2 {
         margin-top: 50px;
      
         @media screen and  (max-width: $mobileWidth) {
-            margin-top: 8x;
+            margin-top: 16x;
             font-size: 12px;
         }
         @media screen and  (max-width: $largeMobileWidth) {
-            margin-top: 8px;
+            margin-top: 16px;
             font-size: 14px;
         }
 }
