@@ -67,6 +67,12 @@ Below, you can find a short bio.
 <small>2020 - present</small>
 : <small> Research fellowship, Young ECONtribute Program.  </small>
 
+<small>2022</small>
+: <small> 4755 EUR research funding for the project:
+    "Hope for the best, prepare for the worst: 
+     signal anticipation and ex-ante belief manipulation."
+    Funded by ECONtribute: Markets and Public Policy, Cluster of Excellence.  </small>
+
 <small>2020</small>
 : <small> 8568 EUR research funding for the project “Estimating Belief-Based Utility Using Experimental Data”, Collaborative Research Center (CRC) TR 224, </small>
 
