@@ -19,5 +19,7 @@ title: Marta Kozakiewicz
 
 **Email**: martkozakiewicz [at] gmail [dot] com
 
+<div style="padding: 15px"> </div>
+
 {% include research_papers.md %}
 
