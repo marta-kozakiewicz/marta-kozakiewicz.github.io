@@ -68,7 +68,7 @@ Below, you can find a short bio.
 : <small> Research fellowship, Young ECONtribute Program.  </small>
 
 <small>2022</small>
-: <small> 4755 EUR research funding for the project:
+: <small> 4755 EUR research funding for the project
     "Hope for the best, prepare for the worst: 
      signal anticipation and ex-ante belief manipulation."
     Funded by ECONtribute: Markets and Public Policy, Cluster of Excellence.  </small>
