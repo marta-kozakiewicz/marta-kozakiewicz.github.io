@@ -63,12 +63,6 @@ In this paper, I propose and test a theory of forward-looking belief manipulatio
 
 <p class="paper-title">  Estimating Belief-Based Utility Using Experimental Data
 </p>
-<p class="paper-links"> 
- [pdf]
- [appendix]
- [instructions (English)]
- [instructions (German)]
-</p>
 
 <p class="abstract">
 </p>

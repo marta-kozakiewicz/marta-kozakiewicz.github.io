@@ -1,12 +1,27 @@
-I"h
+I"Æ<p><img class="profile-picture" align="right" src="/assets/photo.jpg" /></p>
+
+<!-- <p style="font-size:100%;padding-bottom:0;margin-bottom:1.4em;margin-top:2.5em;line-height: 0em;"> I am currently on the job market. &nbsp;
+ In my current research I focus on beliefs formation and learning.</p> -->
+
+<!-- <p style="font-size:18px;font-weight=bold;">Research and Teaching Fields </p> -->
+<p style="font-size:100%;font-weight:bold;padding-bottom:0;margin-bottom:1em;margin-top:3em;line-height: 0em;">Research and Teaching Fields</p>
+<p><span style="font-size:100%;font-style:italic"> Primary: </span>  <span style="font-size:100%;"> Behavioral Economics, Experimental Economics</span> <br />
+<span style="font-size:100%;font-style:italic"> Secondary: </span> <span style="font-size:100%"> Microeconomic Theory</span></p>
+
+<div style="padding: 1px"> </div>
+
+<p><strong>Email</strong>: martkozakiewicz [at] gmail [dot] com</p>
+
+<div style="padding: 15px"> </div>
+
 <h2 id="job-market-paper-i">Job Market Paper I</h2>
 
-<p class="paper-title">  <a href="/assets/kozakiewicz_jmp1_no_appendix.pdf">Experimental Evidence on Misguided Learning </a> </p>
+<p class="paper-title">  <a href="/assets/kozakiewicz_jmp1_no_appendices.pdf">Experimental Evidence on Misguided Learning </a> </p>
 <p class="co-author"> 
  joint work  with <a href="https://fass.nus.edu.sg/ecs/people/lorenz-goette/">Lorenz GÃ¶tte</a>
 </p>
 <p class="paper-links"> 
- <a href="/assets/kozakiewicz_jmp1_no_appendix.pdf">[pdf] </a> 
+ <a href="/assets/kozakiewicz_jmp1_no_appendices.pdf">[pdf] </a> 
  <a href="/assets/kozakiewicz_jmp1_online_appendix.pdf">[appendix] </a> 
  <a href="/assets/ML_instructions_DE.zip">[instructions (German)] </a> 
 </p>
@@ -61,12 +76,6 @@ In this paper, I propose and test a theory of forward-looking belief manipulatio
 </p>
 
 <p class="paper-title">  Estimating Belief-Based Utility Using Experimental Data
-</p>
-<p class="paper-links"> 
- [pdf]
- [appendix]
- [instructions (English)]
- [instructions (German)]
 </p>
 
 <p class="abstract">
