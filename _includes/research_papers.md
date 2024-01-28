@@ -27,7 +27,7 @@ evolves in ego-relevant and ego-neutral environments.
 </p>
 
 <p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_jmp2_belief_based_utility.pdf">Belief-Based Utility and Signal Interpretation</a> </p>
-<p class="paper-links"> 
+<p class="paper-links"> [New version coming soon!]
  <a  href="{{site.path}}/assets/kozakiewicz_jmp2_belief_based_utility.pdf">[pdf] </a>
  [appendix]
  [instructions (English)]
