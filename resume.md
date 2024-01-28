@@ -11,6 +11,10 @@ permalink: /resume
 
 Below, you can find a short bio.
 
+#### Current Position
+<small> 2023 - present </small>
+:   <small> **Postdoctoral researcher**; Frankfurt School of Finance & Management </small>
+
 #### Education
 <small> 2014 - present </small>
 :   <small> **Ph.D. in Economics**; University of Bonn </small>
