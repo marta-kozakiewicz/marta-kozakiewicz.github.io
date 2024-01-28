@@ -30,8 +30,6 @@ evolves in ego-relevant and ego-neutral environments.
 <p class="paper-links"> 
  [New version coming soon!]
  <a  href="{{site.path}}/assets/kozakiewicz_jmp2_belief_based_utility.pdf">[pdf (old version)]  </a>
- [appendix]
- [instructions (German)]
 </p>
 
 <p class="abstract">
