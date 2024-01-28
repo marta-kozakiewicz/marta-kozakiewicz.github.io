@@ -4,17 +4,10 @@ title: contact
 permalink: /contact
 ---
 
-**Email**  martkozakiewicz [at] gmail [dot] com
+**Email**  m.kozakiewicz@fs.de
 
 **Address**
-: Rheinische Friedrich Wilhelms Universität Bonn 
-: Department of Economics
-: Institute for Applied Microeconomics (IAME)
-: Adenauerallee 24-42
-: 53113 Bonn, Germany 
+: Frankfurt School of Finance & Management
+: Adickesallee 32-34
+: 60322 Frankfurt am Main, Germany
   	
-
-<!-- **Office phone number**: +49 (0)228-73 4082 -->
-  	
-
-<!-- **Office location**: Lennéstr. 35, second floor, room 2.002 -->
