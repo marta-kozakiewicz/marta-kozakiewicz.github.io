@@ -1,5 +1,5 @@
 
-## Job Market Paper I
+## Working Papers
 
 <p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_jmp1_no_appendices.pdf">Experimental Evidence on Misguided Learning </a> </p>
 <p class="co-author"> 
@@ -25,8 +25,6 @@ information is not only ineffective but in some cases counterproductive. Further
 we move beyond the theory as we examine how learning about multiple parameters
 evolves in ego-relevant and ego-neutral environments.
 </p>
-
-## Job Market Paper II
 
 <p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_jmp2_belief_based_utility.pdf">Belief-Based Utility and Signal Interpretation</a> </p>
 <p class="paper-links"> 
@@ -57,7 +55,7 @@ shifted by the signal) in asymmetric updating.
 </p>
 
 <p class="abstract">
-In this paper, I propose and test a theory of forward-looking belief manipulation.  It is based on the idea that people can "prepare themselves" for the arrival of bad news by adopting overly pessimistic beliefs. The prior is not fixed like in the classical approach but can be manipulated depending on the agent's expectations over the upcoming signal. Using a simple model, I show that if utility from beliefs is reference-dependent and the agent is loss averse, he will lower his beliefs when expecting a noisy signal. I test the model in a laboratory experiment, in which I exogenously vary subjects' expectations about the upcoming signal. While there is a lot of heterogeneity at the individual level, the preliminary data is in line with the model predictions. If confirmed in a larger sample, the results will provide the first empirical evidence that the utility from beliefs is reference-dependent.
+ In this paper, I experimentally test a model of belief choice with reference-dependent utility. The basic idea is that people can "prepare themselves" for the arrival of new information by adopting overly pessimistic beliefs. By distorting her prior beliefs, an agent can 1) hedge against a painful downward shift in beliefs after a negative signal and 2) enhance a pleasant surprise from a positive signal.  To test the model, I designed a lab experiment in which subjects solve an IQ test and subsequently report beliefs about their relative performance. I introduce an exogenous variation in subjects' expectations over the upcoming signal, which allows me to identify belief manipulation. The results confirm the main predictions of the model, substantiating the claim that utility from beliefs is reference-dependent. Furthermore, I examine a previously unexplored link between gain-loss attitudes and overconfidence, and confirm it in the data.
 </p>
 
 
