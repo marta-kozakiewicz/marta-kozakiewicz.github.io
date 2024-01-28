@@ -47,7 +47,7 @@ origins of overconfidence, pointing towards the role of affect (or utility from 
 shifted by the signal) in asymmetric updating.
 </p>
 
-## Work in Progress
+
 
 <p class="paper-title"> Hope for the best, prepare for the worst: signal anticipation and ex-ante belief manipulation</p>
 <p class="paper-links"> 
@@ -58,7 +58,7 @@ shifted by the signal) in asymmetric updating.
  In this paper, I experimentally test a model of belief choice with reference-dependent utility. The basic idea is that people can "prepare themselves" for the arrival of new information by adopting overly pessimistic beliefs. By distorting her prior beliefs, an agent can 1) hedge against a painful downward shift in beliefs after a negative signal and 2) enhance a pleasant surprise from a positive signal.  To test the model, I designed a lab experiment in which subjects solve an IQ test and subsequently report beliefs about their relative performance. I introduce an exogenous variation in subjects' expectations over the upcoming signal, which allows me to identify belief manipulation. The results confirm the main predictions of the model, substantiating the claim that utility from beliefs is reference-dependent. Furthermore, I examine a previously unexplored link between gain-loss attitudes and overconfidence, and confirm it in the data.
 </p>
 
-
+## Work in Progress
 <p class="paper-title">  Estimating Belief-Based Utility Using Experimental Data
 </p>
 
