@@ -17,7 +17,7 @@ title: Marta Kozakiewicz
 
 <div style="padding: 1px"> </div>
 
-**Email**: martkozakiewicz [at] gmail [dot] com
+**Email**: m.kozakiewicz@fs.de
 
 <div style="padding: 15px"> </div>
 
