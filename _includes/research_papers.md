@@ -29,20 +29,22 @@ evolves in ego-relevant and ego-neutral environments.
 <p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_jmp2_belief_based_utility.pdf">Belief-Based Utility and Signal Interpretation</a>  </p> 
 <p class="paper-links"> 
  [New version coming soon!]
- <a  href="{{site.path}}/assets/kozakiewicz_jmp2_belief_based_utility.pdf">[pdf (old version)]  </a>
+<!--  <a  href="{{site.path}}/assets/kozakiewicz_jmp2_belief_based_utility.pdf">[pdf (old version)]  </a> -->
 </p>
 
 <p class="abstract">
-Do people perceive favorable feedback in a different way than unfavorable one?
-After a decade of research, there is no definite answer. The existing literature disagrees not only on the magnitude but also the direction of the bias (Benjamin, 2019).
-In this paper, I propose a new experimental paradigm to identify motivated distortion of beliefs about signal informativeness. The new design allows me to better
-capture the asymmetry in response to "good" and "bad" news. The data reveals
-that participants perceive favorable signals as much more likely to be informative.
-Furthermore, I introduce a new control condition to uncover the underlying mechanism. Participants in the control group evaluated informativeness of a signal ex-ante,
-conditioned on possible signal realizations. By comparing beliefs reported after a
-signal to the reports stated ex-ante, I show that participants distort their perception in a motivated way after receiving a signal. The results cast a new light on the
-origins of overconfidence, pointing towards the role of affect (or utility from beliefs
-shifted by the signal) in asymmetric updating.
+Do people update their beliefs differently after positive versus negative feedback?
+The existing literature disagrees on not only the magnitude but also on the direction
+of the bias. In this paper, I propose an experiment guided by a simple model of
+belief choice. The experimental data reveal a strong asymmetry in updating after
+“good” versus “bad” news. Furthermore, I design a new control condition to uncover
+the underlying mechanism. Participants in the control group evaluated hypothetical
+signal realizations—they faced the same decision as subjects in the treatment group
+but without receiving a signal. I document no asymmetry in the control condition,
+as predicted by the model. The difference-in-difference analysis reveals that people
+tend to distort their perception of a favorable signal only after its realization. The
+results point towards the role of affect (or utility from beliefs shifted by the signal)
+in asymmetric updating.
 </p>
 
 
