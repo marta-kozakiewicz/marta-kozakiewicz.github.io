@@ -29,7 +29,7 @@ evolves in ego-relevant and ego-neutral environments.
 <p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_BBU.pdf"> Belief-Based Utility and Signal Interpretation </a> </p> 
 <p class="paper-links"> 
  <a  href="{{site.path}}/assets/kozakiewicz_BBU.pdf">[pdf] </a> 
- <a  href="{{site.path}}/assets/kozakiewicz_BBU_instructions.zip">[instructions] </a> 
+ <a  href="{{site.path}}/assets/kozakiewicz_BBU_instructions.zip">[instructions (German)] </a> 
 </p>
 
 <p class="abstract">
