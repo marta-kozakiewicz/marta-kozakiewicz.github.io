@@ -28,23 +28,12 @@ evolves in ego-relevant and ego-neutral environments.
 
 <p class="paper-title"> Belief-Based Utility and Signal Interpretation  </p> 
 <p class="paper-links"> 
- [New version coming soon!]
-<!--  <a  href="{{site.path}}/assets/kozakiewicz_jmp2_belief_based_utility.pdf">[pdf (old version)]  </a> -->
+ <a  href="{{site.path}}/assets/kozakiewicz_BBU.pdf">[pdf] </a> 
+ <a  href="{{site.path}}/assets/kozakiewicz_BBU_instructions.pdf">[instructions] </a> 
 </p>
 
 <p class="abstract">
-Do people update their beliefs differently after positive versus negative feedback?
-The existing literature disagrees on not only the magnitude but also on the direction
-of the bias. In this paper, I propose an experiment guided by a simple model of
-belief choice. The experimental data reveal a strong asymmetry in updating after
-“good” versus “bad” news. Furthermore, I design a new control condition to uncover
-the underlying mechanism. Participants in the control group evaluated hypothetical
-signal realizations—they faced the same decision as subjects in the treatment group
-but without receiving a signal. I document no asymmetry in the control condition,
-as predicted by the model. The difference-in-difference analysis reveals that people
-tend to distort their perception of a favorable signal only after its realization. The
-results point towards the role of affect (or utility from beliefs shifted by the signal)
-in asymmetric updating.
+Do people update their beliefs differently after positive versus negative feedback? The existing literature disagrees on the magnitude and direction of the bias. In this paper, I propose a new experiment guided by a simple model of belief choice. The experimental data reveal a strong asymmetry in updating after "good" versus "bad" news. Moreover, I design a control condition that allows a clear identification of belief manipulation and provides robust evidence on the underlying mechanism. The results point towards the role of affect (or utility from beliefs shifted by the signal) in asymmetric updating. The proposed method can be applied more broadly to study belief-based utility and its role in belief formation.
 </p>
 
 
