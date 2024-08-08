@@ -26,7 +26,7 @@ we move beyond the theory as we examine how learning about multiple parameters
 evolves in ego-relevant and ego-neutral environments.
 </p>
 
-<p class="paper-title"> Belief-Based Utility and Signal Interpretation  </p> 
+<p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_BBU.pdf"> Belief-Based Utility and Signal Interpretation </a> </p> 
 <p class="paper-links"> 
  <a  href="{{site.path}}/assets/kozakiewicz_BBU.pdf">[pdf] </a> 
  <a  href="{{site.path}}/assets/kozakiewicz_BBU_instructions.zim">[instructions] </a> 
