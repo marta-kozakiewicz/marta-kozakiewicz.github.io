@@ -6,8 +6,8 @@
  joint work  with <a  href="https://fass.nus.edu.sg/ecs/people/lorenz-goette/">Lorenz Götte</a>
 </p>
 <p class="paper-links"> 
- <a  href="{{site.path}}/assets/kozakiewicz_jmp1_no_appendices.pdf">[pdf] </a> 
- <a  href="{{site.path}}/assets/kozakiewicz_jmp1_online_appendix.pdf">[appendix] </a> 
+ <a  href="{{site.path}}/assets/ML_paper.pdf">[pdf] </a> 
+ <a  href="{{site.path}}/assets/ML_paper_online_appendix.pdf">[appendix] </a> 
  <a  href="{{site.path}}/assets/ML_instructions_DE.zip">[instructions (German)] </a> 
 </p>
 <p class="abstract">
