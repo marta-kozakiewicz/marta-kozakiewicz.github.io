@@ -68,7 +68,7 @@ Below, you can find a short bio.
 
 #### Honors and Grants
 
-<small>2020 - present</small>
+<small>2020 - 2023</small>
 : <small> Research fellowship, Young ECONtribute Program.  </small>
 
 <small>2022</small>
