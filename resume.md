@@ -16,12 +16,11 @@ Below, you can find a short bio.
 :   <small> **Postdoctoral researcher**; Frankfurt School of Finance & Management </small>
 
 #### Education
-<small> 2014 - present </small>
+<small> 2024 </small>
 :   <small> **Ph.D. in Economics**; University of Bonn </small>
 
-<small> 2008 - 2014</small>
+<small> 2011, 2014</small>
 :  <small> **B.S. and M.S. in Quantitative Methods in Economics**; Warsaw School of Economics. </small>
-
 
 
 #### Teaching Experience
@@ -32,39 +31,6 @@ Below, you can find a short bio.
 : <small> **Research Module in Management and Applied Microeconomics** (TA, graduate) </small>
 
 
-
-<!-- #### Honors and Grants
-<ul class="small">
-<li>2020 - present</li>
-    <ul>
-        <li> Research fellowship, Young ECONtribute Program.  </li>
-    </ul>
-<li>2020</li>
-    <ul>
-        <li> 8568 EUR research funding for the project “Estimating Belief-Based Utility Using Experimental Data”, Collaborative Research Center (CRC) TR 224, </li>
-    </ul>
-
-<li>2018 - 2020</li>
-    <ul>
-        <li> Research fellowship, Collaborative Research Center (CRC) TR 224  </li>
-    </ul>
-<li>2018</li>
-    <ul>
-    <li> 6100  EUR  research  funding  for  the  project ``Misguided  Learning:   The  Underlying Mechanisms'', Collaborative Research Center (CRC) TR 224 through project A1 </li>
-    </ul>
-<li>2017</li>
-        <ul>
-    <li> 6000  EUR  research  funding  for  the  project “Experimental  Evidence  on  Misguided Learning”, Institute for Applied Microeconomics, University of Bonn </li>
-    </ul>
-<li>2015 - 2018</li>
-    <ul>
-    <li>Doctoral scholarship, German Academic Research Service (DAAD)</li>
-    </ul>
-<li>2014 - 2015</li>
-    <ul>
-    <li>Doctoral scholarship, German Research Foundation (DFG)</li>
-    </ul>
-</ul> -->
 
 #### Honors and Grants
 
@@ -88,13 +54,6 @@ Below, you can find a short bio.
 
 <small>2017</small>
 : <small> 6000  EUR  research  funding  for  the  project “Experimental  Evidence  on  Misguided Learning”, Institute for Applied Microeconomics, University of Bonn </small>
-
-<small>2015 - 2018</small>
-: <small>Doctoral scholarship, German Academic Research Service (DAAD)</small>
-
-<small>2014 - 2015</small>
-: <small>Doctoral scholarship, German Research Foundation (DFG)</small>
-
 
 
 &nbsp;
