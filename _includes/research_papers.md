@@ -3,9 +3,6 @@
 
 <p class="paper-title">  <a href="{{site.path}}/assets/ML_paper.pdf">Experimental Evidence on Misguided Learning </a> </p>
 <p class="co-author"> 
- <i> submitted </i>
-</p>
-<p class="co-author"> 
  joint work  with <a  href="https://fass.nus.edu.sg/ecs/people/lorenz-goette/">Lorenz Götte</a>
 </p>
 <p class="paper-links"> 
@@ -13,6 +10,13 @@
  <a  href="{{site.path}}/assets/ML_paper_online_appendix.pdf">[appendix] </a> 
  <a  href="{{site.path}}/assets/ML_instructions_DE.zip">[instructions (German)] </a> 
 </p>
+
+&nbsp;.
+
+<p class="co-author"> 
+ <i> submitted </i>
+</p>
+
 <p class="abstract">
 This paper studies how people form beliefs in environments with multiple
 unknown parameters, some of which are relevant to agents'
@@ -34,6 +38,8 @@ evolves in ego-relevant and ego-neutral environments.
  <a  href="{{site.path}}/assets/kozakiewicz_BBU.pdf">[pdf] </a> 
  <a  href="{{site.path}}/assets/kozakiewicz_BBU_instructions.zip">[instructions (German)] </a> 
 </p>
+
+&nbsp;
 
 <p class="co-author"> 
  <i> submitted </i>
