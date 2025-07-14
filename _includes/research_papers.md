@@ -11,7 +11,7 @@
  <a  href="{{site.path}}/assets/ML_instructions_DE.zip">[instructions (German)] </a> 
 </p>
 
-&nbsp;.
+&nbsp;
 
 <p class="co-author"> 
  <i> submitted </i>
