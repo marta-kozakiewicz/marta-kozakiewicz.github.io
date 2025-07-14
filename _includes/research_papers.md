@@ -1,7 +1,7 @@
 
 ## Working Papers
 
-<p class="paper-title">  <a href="{{site.path}}/assets/ML_paper.pdf">Experimental Evidence on Misguided Learning </a>  <i style="font-size:80%; font-weight: normal;">(submitted)</i> </p> 
+<p class="paper-title">  <a href="{{site.path}}/assets/ML_paper.pdf">Experimental Evidence on Misguided Learning </a>   <i style="font-size:80%; font-weight: normal;"> (submitted)</i> </p> 
 <p class="co-author"> 
  joint work  with <a  href="https://fass.nus.edu.sg/ecs/people/lorenz-goette/">Lorenz Götte</a>
 </p>
@@ -28,7 +28,7 @@ we move beyond the theory as we examine how learning about multiple parameters
 evolves in ego-relevant and ego-neutral environments.
 </p>
 
-<p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_BBU.pdf"> Belief-Based Utility and Signal Interpretation </a>  <i style="font-size:80%; font-weight: normal;">(submitted)</i>  </p> 
+<p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_BBU.pdf"> Belief-Based Utility and Signal Interpretation </a>   <i style="font-size:80%; font-weight: normal;"> (submitted)</i>  </p> 
 <p class="paper-links"> 
  <a  href="{{site.path}}/assets/kozakiewicz_BBU.pdf">[pdf] </a> 
  <a  href="{{site.path}}/assets/kozakiewicz_BBU_instructions.zip">[instructions (German)] </a> 
