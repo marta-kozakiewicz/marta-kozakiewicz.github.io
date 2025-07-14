@@ -11,7 +11,6 @@
  <a  href="{{site.path}}/assets/ML_instructions_DE.zip">[instructions (German)] </a> 
 </p>
 
-&nbsp;
 
 <p class="co-author"> 
  <i> submitted </i>
@@ -39,7 +38,6 @@ evolves in ego-relevant and ego-neutral environments.
  <a  href="{{site.path}}/assets/kozakiewicz_BBU_instructions.zip">[instructions (German)] </a> 
 </p>
 
-&nbsp;
 
 <p class="co-author"> 
  <i> submitted </i>
