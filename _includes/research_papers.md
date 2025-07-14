@@ -1,7 +1,7 @@
 
 ## Working Papers
 
-<p class="paper-title">  <a href="{{site.path}}/assets/ML_paper.pdf">Experimental Evidence on Misguided Learning </a> </p>
+<p class="paper-title">  <a href="{{site.path}}/assets/ML_paper.pdf">Experimental Evidence on Misguided Learning </a> ( <i> submitted </i>) </p>
 <p class="co-author"> 
  joint work  with <a  href="https://fass.nus.edu.sg/ecs/people/lorenz-goette/">Lorenz Götte</a>
 </p>
@@ -11,10 +11,6 @@
  <a  href="{{site.path}}/assets/ML_instructions_DE.zip">[instructions (German)] </a> 
 </p>
 
-
-<p class="co-author"> 
- <i> submitted </i>
-</p>
 
 <p class="abstract">
 This paper studies how people form beliefs in environments with multiple
@@ -32,16 +28,12 @@ we move beyond the theory as we examine how learning about multiple parameters
 evolves in ego-relevant and ego-neutral environments.
 </p>
 
-<p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_BBU.pdf"> Belief-Based Utility and Signal Interpretation </a> </p> 
+<p class="paper-title">  <a href="{{site.path}}/assets/kozakiewicz_BBU.pdf"> Belief-Based Utility and Signal Interpretation </a> ( <i> submitted </i>) </p> 
 <p class="paper-links"> 
  <a  href="{{site.path}}/assets/kozakiewicz_BBU.pdf">[pdf] </a> 
  <a  href="{{site.path}}/assets/kozakiewicz_BBU_instructions.zip">[instructions (German)] </a> 
 </p>
 
-
-<p class="co-author"> 
- <i> submitted </i>
-</p>
 
 <p class="abstract">
 Do people update their beliefs differently after positive versus negative feedback? The existing literature disagrees on the magnitude and direction of the bias. In this paper, I propose a new experiment guided by a simple model of belief choice. The experimental data reveal a strong asymmetry in updating after "good" versus "bad" news. Moreover, I design a control condition that allows a clear identification of belief manipulation and provides robust evidence on the underlying mechanism. Participants in the control group evaluated hypothetical signal realizations---they faced the same decision as subjects in the treatment group but without receiving a signal. I document no asymmetry in the control condition, as predicted by the model. The difference-in-difference analysis reveals that people tend to distort their perception of a positive signal only after its realization.  The results point towards the role of affect (or utility from beliefs shifted by the signal) in asymmetric updating. The proposed method can be applied more broadly to study belief-based utility and its role in belief formation.
