@@ -12,7 +12,12 @@ permalink: /resume
 Below, you can find a short bio.
 
 #### Current Position
-<small> 2023 - present </small>
+<small> since 2026 </small>
+:   <small> **Postdoctoral researcher**; Heidelberg University </small>
+
+
+#### Work Experience
+<small> 2023 - 2026 </small>
 :   <small> **Postdoctoral researcher**; Frankfurt School of Finance & Management </small>
 
 #### Education
