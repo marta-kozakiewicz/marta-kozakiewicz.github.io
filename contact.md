@@ -4,10 +4,10 @@ title: contact
 permalink: /contact
 ---
 
-**Email**  m.kozakiewicz@fs.de
+**Email**  marta.kozakiewicz@awu.uni-heidelberg.de
 
 **Address**
-: Frankfurt School of Finance & Management
-: Adickesallee 32-34
-: 60322 Frankfurt am Main, Germany
+: Alfred Weber Institute for Economics
+: Bergheimer Str. 58
+: 69115 Heidelberg
   	
