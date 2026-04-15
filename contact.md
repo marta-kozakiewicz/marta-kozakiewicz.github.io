@@ -4,7 +4,7 @@ title: contact
 permalink: /contact
 ---
 
-**Email**  marta.kozakiewicz@awu.uni-heidelberg.de
+**Email**  marta.kozakiewicz@awi.uni-heidelberg.de
 
 **Address**
 : Alfred Weber Institute for Economics
