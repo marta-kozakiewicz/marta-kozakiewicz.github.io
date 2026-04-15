@@ -17,7 +17,7 @@ title: Marta Kozakiewicz
 
 <div style="padding: 1px"> </div>
 
-**Email**: m.kozakiewicz@fs.de
+**Email**: marta.kozakiewicz@awi.uni-heidelberg.de
 
 <div style="padding: 15px"> </div>
 
