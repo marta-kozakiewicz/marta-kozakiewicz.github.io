@@ -42,7 +42,9 @@ Do people update their beliefs differently after positive versus negative feedba
 
 
 <p class="paper-title"> <a href="{{site.path}}/assets/hope_for_the_best_2025.pdf"> Hope for the Best, Prepare for the Worst: Signal Anticipation and Ex-ante Belief Manipulation </a> </p>
-
+<p class="paper-links"> 
+ <a  href="{{site.path}}/assets/kozakiewicz_BBU.pdf">[pdf] </a> 
+</p>
 
 <p class="abstract">
  In this paper, I experimentally test a model of belief choice with reference- dependent utility. The basic idea is that people can “prepare themselves” for the arrival of new information by adopting overly pessimistic beliefs. By distorting her prior beliefs, an agent can 1) hedge against a painful downward shift in beliefs after a negative signal and 2) enhance a pleasant surprise from a positive signal. To test the model, I designed a lab experiment in which subjects solve an IQ test and subsequently report beliefs about their relative performance. I introduce an exogenous variation in subjects’ expectations over the upcoming signal, which allows me to identify belief manipulation. The results confirm the main predictions of the
